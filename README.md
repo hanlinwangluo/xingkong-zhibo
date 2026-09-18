@@ -10,7 +10,7 @@
 
 | 版本 | 说明 | 大小 | 下载 |
 | --- | --- | --- | --- |
-| v1.0 | 看电视直播 | 约 15 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-zhibo/releases/download/v1.0/Xingkong-Live-v1.0.apk) |
+| v28.5.20 | 看电视直播 | 约 15 MB | [⬇️ 立即下载](https://github.com/hanlinwangluo/xingkong-zhibo/releases/download/v28.5.20/Xingkong-Live-v28.5.20.apk) |
 
 > ⚠️ 若提示"未知来源应用"，请在弹出的提示中选择「仍要安装 / 允许此来源」，并同意「安装未知应用」权限。
 
@@ -36,8 +36,8 @@ A：请确认设备 Android 版本满足要求，并重新下载最新版本安�
 
 ## 📝 更新日志
 
-### v1.0
-- 首个版本发布，支持看电视直播
+### v28.5.20
+- 支持看电视直播
 
 ---
 
